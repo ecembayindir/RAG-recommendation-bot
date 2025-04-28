@@ -202,6 +202,7 @@
 
   <h2>📚 <strong>Dataset Structure</strong></h2>
   <p>The project uses a curated books dataset (<code>books_dataset.parquet</code>) with the following schema:</p>
+  <p>Dataset source: <a href="https://www.kaggle.com/datasets/mdhamani/goodreads-books-100k" target="_blank">Goodreads Books 100K on Kaggle</a></p>
 
   <table>
     <thead>
@@ -245,7 +246,7 @@
     </tbody>
   </table>
 
-  <p>The dataset is limited to 500 high-quality book entries for optimal performance.</p>
+  <p>The dataset in the app is limited to 500 high-quality book entries for optimal performance.</p>
 
   <h2>🚀 <strong>Getting Started</strong></h2>
 
