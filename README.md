@@ -258,17 +258,19 @@
   </ul>
 
   <h3>Installation</h3>
-  <pre><code># Clone the repository
+  <pre><code>
+
+### Clone the repository
 git clone https://github.com/yourusername/book-recommendation-chatbot.git
 cd book-recommendation-chatbot
 
-# Install dependencies
+### Install dependencies
 pip install -r requirements.txt
 
-# Set up environment variables
+### Set up environment variables
 echo "HUGGINGFACEHUB_API_TOKEN=your_token_here" > .env
 
-# Run the application
+### Run the application
 streamlit run streamlit_app.py</code></pre>
 
   <h3>Setup Instructions</h3>
